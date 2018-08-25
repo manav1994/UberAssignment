@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Uber Search</string>
+    <string name="no_data_available">No data available</string>
+    <string name="no_network">Network not available kindly connect to network</string>
+</resources>
